@@ -11,7 +11,7 @@ website:
   favicon: assets/site/favicon.svg
   navbar:
     background: light
-    title: "Sangyoon Yi"
+    title: false
     left:
       - href: index.qmd
         text: Home
