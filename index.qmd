@@ -4,6 +4,12 @@ page-layout: full
 title-block-style: none
 ---
 
+<style>
+.quarto-title-block {
+  display: none;
+}
+</style>
+
 ::: {.profile}
 ::: {.profile-photo-wrap}
 <img src="assets/site/profile.jpg" class="profile-image" alt="Sangyoon Yi">

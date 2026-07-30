@@ -89,10 +89,6 @@ main.content {
   margin-bottom: 2rem;
 }
 
-body:has(.profile) .quarto-title-block {
-  display: none;
-}
-
 .quarto-title .title {
   font-size: 2rem;
 }
