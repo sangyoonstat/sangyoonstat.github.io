@@ -18,14 +18,15 @@ To preview locally, install Quarto and run:
 quarto preview
 ```
 
-Before committing an update, render the site and refresh the static files served by GitHub Pages:
+To render and validate the site locally:
 
 ```bash
 bash scripts/render-site.sh
 ```
 
-Commit both the edited `.qmd` source and the generated `.html`/`site_libs` files.
-Pushing to `master` publishes the pre-rendered files through the repository's existing GitHub Pages configuration.
+Commit the edited source files. You do not need to commit generated HTML or
+`site_libs`; after a change reaches `master`, GitHub Actions renders and deploys
+the `_site` artifact automatically.
 
 ### Editing on GitHub.com
 
