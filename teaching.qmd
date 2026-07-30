@@ -1,18 +1,10 @@
 ---
 title: "Teaching"
-description: "Courses taught at Oklahoma State University."
 ---
 
 ## Oklahoma State University
 
-- **STAT 4033 — Engineering Statistics**<br>
-  Fall 2025, Spring 2026
-
-- **STAT 5023 — Statistics for Experimenters II**<br>
-  Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026
-
-- **STAT 4981 — Statistics Capstone I**<br>
-  Fall 2022, Fall 2023, Fall 2024
-
-- **STAT 4991 — Statistics Capstone II**<br>
-  Spring 2023, Spring 2024, Spring 2025
+- **STAT 4033 — Engineering Statistics**
+- **STAT 5023 — Statistics for Experimenters II**
+- **STAT 4981 — Statistics Capstone I**
+- **STAT 4991 — Statistics Capstone II**
