@@ -1,4 +1,4 @@
-name: Check Quarto website
+name: Render Quarto website
 
 on:
   push:
@@ -8,7 +8,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: quarto-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   render:
@@ -27,3 +31,24 @@ jobs:
 
       - name: Validate rendered website
         run: python scripts/check-site.py _site
+
+      - name: Commit rendered website
+        if: github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all -- \
+            index.html \
+            research.html \
+            teaching.html \
+            search.json \
+            sitemap.xml \
+            robots.txt \
+            site_libs \
+            assets/site
+          if git diff --cached --quiet; then
+            echo "Rendered website is already current."
+            exit 0
+          fi
+          git commit -m "Automated Quarto render [skip ci]"
+          git push origin HEAD:master

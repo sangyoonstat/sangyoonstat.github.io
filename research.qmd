@@ -8,24 +8,26 @@ My research focuses on high-dimensional statistics, multi-view data integration,
 
 ## Publications and Preprints
 
+<!-- Use `1.` for every item; Markdown numbers the list automatically. -->
+
 1. **[Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.](https://arxiv.org/abs/2604.03863)** With M. Kang.
 
-2. **[CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.](https://arxiv.org/abs/2508.16883)** With S. Osarfo, W. Fu, and S. Ahn.
+1. **[CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.](https://arxiv.org/abs/2508.16883)** With S. Osarfo, W. Fu, and S. Ahn.
 
-3. **[Sensitivity analysis for false discovery rate estimation with published p-values.](https://arxiv.org/abs/2603.00410)** With T. Cao and J. Habiger.
+1. **[Sensitivity analysis for false discovery rate estimation with published p-values.](https://arxiv.org/abs/2603.00410)** With T. Cao and J. Habiger.
 
-4. **Hierarchical nuclear norm penalization for multi-view data integration.**<br>
+1. **Hierarchical nuclear norm penalization for multi-view data integration.**<br>
    **S. Yi**, R. K. W. Wong, and I. Gaynanova. *Biometrics*, 79(4), 2933–2946, 2023.<br>
    [Journal](https://academic.oup.com/biometrics/article/79/4/2933/7587568)
 
-5. **Projection-based inference for high-dimensional linear models.**<br>
+1. **Projection-based inference for high-dimensional linear models.**<br>
    **S. Yi** and X. Zhang. *Statistica Sinica*, 32, 893–917, 2022.<br>
    [Journal](https://www3.stat.sinica.edu.tw/sstest/j32n2/32-2.html)
 
-6. **2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies.**<br>
+1. **2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies.**<br>
    **S. Yi**, X. Zhang, L. Yang, J. Huang, Y. Liu, C. Wang, D. Schaid, and J. Chen. *Genome Biology*, 22, 208, 2021.<br>
    [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8276451/)
 
-7. **Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain.**<br>
+1. **Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain.**<br>
    S. H. Yoon, E. Kim, Y. Jeon, **S. Yi**, H. J. Bae, I. K. Jang, J. M. Lee, S. M. Yoo, C. S. White, and E. J. Chun. *Korean Journal of Radiology*, 21(9), 1055–1064, 2020.<br>
    [PubMed](https://pubmed.ncbi.nlm.nih.gov/32691541/)
