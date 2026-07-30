@@ -19,6 +19,13 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=u3yAROcAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/sangyoonstat
+        aria-label: GitHub
   page-footer:
     left: "© 2026 Sangyoon Yi"
   open-graph: true
