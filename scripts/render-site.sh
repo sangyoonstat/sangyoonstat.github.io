@@ -2,8 +2,10 @@
 
 set -euo pipefail
 
+rm -rf _site
 quarto render
 
+rm -f publications.html cv.html contact.html
 cp _site/*.html .
 cp _site/robots.txt _site/search.json _site/sitemap.xml .
 mkdir -p site_libs assets/site

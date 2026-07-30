@@ -1,47 +1,34 @@
 ---
 title: "Research"
-description: "Research areas and current methodological directions."
+description: "Research interests, publications, and preprints."
 ---
 
-<p class="page-deck">My research develops principled and computationally useful statistical methods for complex, high-dimensional data. A recurring goal is to preserve meaningful structure while enabling valid inference.</p>
+## Research interests
 
-## Multi-view data integration
+My research focuses on high-dimensional statistics, multi-view data integration, mediation analysis, multiple testing, and statistical methods for microbiome and multi-omics data. I am particularly interested in developing principled and interpretable methods for complex, structured data.
 
-Modern studies frequently measure several data types on the same subjects. These views may contain common signals, partially shared signals, and variation unique to an individual source. I study low-rank and structured approaches that separate these components and make the resulting representation interpretable.
+## Publications and Preprints
 
-Representative themes include:
+1. **Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.**
 
-- joint and partially shared structure across data views;
-- adaptive rank and signal-structure estimation;
-- sparse, compositional, and graph-aware representations;
-- uncertainty quantification for estimated latent structure; and
-- applications to multi-omics and microbiome data.
+2. **CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.**
 
-My work on [hierarchical nuclear norm penalization](https://doi.org/10.1111/biom.13893) provides a flexible convex framework for estimating shared structure across arbitrary subsets of views.
+3. **Sensitivity analysis for false discovery rate estimation with published p-values.** With T. Cao and J. Habiger.
 
-## High-dimensional mediation analysis
+4. **Sparse compositional integrative factor model for multi-view data with compositions.** With K. Kim and S. Jung.
 
-Mediation analysis asks how an exposure affects an outcome through intermediate variables. When thousands of candidate mediators are available, both selection and inference become difficult. My work examines procedures that retain power while accounting for dependence, non-Gaussian outcomes, compositional constraints, hidden confounding, and model-selection uncertainty.
+5. **Hierarchical nuclear norm penalization for multi-view data integration.**<br>
+   **S. Yi**, R. K. W. Wong, and I. Gaynanova. *Biometrics*, 79(4), 2933–2946, 2023.<br>
+   [DOI](https://doi.org/10.1111/biom.13893) · [Journal](https://academic.oup.com/biometrics/article/79/4/2933/7587568)
 
-Current directions include correlation-aware mediation analysis, multi-sample splitting, mediation with binary outcomes, and methods for microbiome mediators.
+6. **Projection-based inference for high-dimensional linear models.**<br>
+   **S. Yi** and X. Zhang. *Statistica Sinica*, 32, 893–917, 2022.<br>
+   [DOI](https://doi.org/10.5705/ss.202019.0283) · [Journal](https://www3.stat.sinica.edu.tw/sstest/j32n2/32-2.html)
 
-## Statistical methods for omics
+7. **2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies.**<br>
+   **S. Yi**, X. Zhang, L. Yang, J. Huang, Y. Liu, C. Wang, D. Schaid, and J. Chen. *Genome Biology*, 22, 208, 2021.<br>
+   [DOI](https://doi.org/10.1186/s13059-021-02418-8) · [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8276451/)
 
-Omics measurements bring scientific structure that generic high-dimensional procedures may ignore. Microbiome data are compositional and often zero-inflated; multi-omics studies contain heterogeneous views; and nuisance variation can substantially alter association testing.
-
-I develop methods that directly incorporate these features, including:
-
-- compositional integrative factor models;
-- models for zero-inflated microbiome mediators;
-- latent-Gaussian approaches to microbiome integration;
-- measurement-error correction for log-contrast regression; and
-- confounder-adjusted multiple testing.
-
-The [2dFDR framework](https://doi.org/10.1186/s13059-021-02418-8) illustrates this broader goal: using auxiliary structure to increase discovery power while retaining false-discovery control.
-
-## High-dimensional inference and multiple testing
-
-I am also interested in general inference problems where dimensionality, selection, or nuisance structure invalidate classical approximations. This includes projection-based inference, false-discovery-rate estimation, and robust procedures for scientific studies with many candidate signals.
-
-[View publications](publications.qmd){.button .button-primary}
-
+8. **Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain.**<br>
+   S. H. Yoon, E. Kim, Y. Jeon, **S. Yi**, H. J. Bae, I. K. Jang, J. M. Lee, S. M. Yoo, C. S. White, and E. J. Chun. *Korean Journal of Radiology*, 21(9), 1055–1064, 2020.<br>
+   [DOI](https://doi.org/10.3348/kjr.2020.0103) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32691541/)

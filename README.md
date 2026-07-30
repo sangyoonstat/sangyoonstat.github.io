@@ -7,11 +7,8 @@ This repository contains the source for [sangyoonstat.github.io](https://sangyoo
 The main pages are ordinary Quarto Markdown files:
 
 - `index.qmd` - homepage
-- `research.qmd` - research program
-- `publications.qmd` - publications and ongoing work
+- `research.qmd` - research interests, publications, and preprints
 - `teaching.qmd` - courses
-- `cv.qmd` - CV page
-- `contact.qmd` - contact information
 
 Site-wide navigation is in `_quarto.yml`, and visual styling is in `styles.css`.
 

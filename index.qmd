@@ -4,129 +4,16 @@ page-layout: full
 title-block-style: none
 ---
 
-::: {.hero-shell}
-::: {.hero-copy}
-<p class="eyebrow">STATISTICAL METHODOLOGY FOR COMPLEX DATA</p>
+::: {.profile}
+::: {.profile-photo-wrap}
+<img src="assets/site/profile.jpg" class="profile-image" alt="Sangyoon Yi">
+:::
 
+::: {.profile-text}
 # Sangyoon Yi
 
-<p class="hero-role">Assistant Professor of Statistics<br>Oklahoma State University</p>
-
-<p class="hero-lead">I develop statistical methods for learning from high-dimensional, multi-view, and multi-omics data, with an emphasis on reliable inference and scientifically interpretable structure.</p>
-
-::: {.hero-actions}
-[Explore my research](research.qmd){.button .button-primary}
-[View publications](publications.qmd){.button .button-secondary}
-[View CV](cv.qmd){.text-link}
-:::
-
-::: {.identity-links}
-[sayi@okstate.edu](mailto:sayi@okstate.edu) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=u3yAROcAAAAJ) · [ORCID](https://orcid.org/0000-0001-6892-577X) · [GitHub](https://github.com/sangyoonstat)
-:::
-:::
-
-::: {.hero-visual}
-<div class="profile-photo" role="img" aria-label="Sangyoon Yi outdoors in Los Angeles"></div>
-<div class="photo-caption"><span>Based in Stillwater, Oklahoma</span><span>Statistics · Data Science · Omics</span></div>
-:::
-:::
-
-::: {.content-band}
-<p class="section-kicker">RESEARCH PROGRAM</p>
-
-## Statistics for structured, high-dimensional science
-
-My work connects modern statistical theory with challenges arising in genomics, microbiome studies, and other data-rich scientific settings.
-
-::: {.research-grid}
-::: {.research-card}
-<span class="card-number">01</span>
-
-### Multi-view data integration
-
-Low-rank and structured methods that identify shared and view-specific variation across multiple data sources.
-
-[Learn more →](research.qmd#multi-view-data-integration)
-:::
-
-::: {.research-card}
-<span class="card-number">02</span>
-
-### High-dimensional mediation
-
-Selection and inference for mediation effects when the number of potential mediators is large and the outcome model is complex.
-
-[Learn more →](research.qmd#high-dimensional-mediation-analysis)
-:::
-
-::: {.research-card}
-<span class="card-number">03</span>
-
-### Statistics for omics
-
-Methods tailored to compositional, zero-inflated, confounded, and multi-omic measurements.
-
-[Learn more →](research.qmd#statistical-methods-for-omics)
-:::
-:::
-:::
-
-::: {.split-section}
-::: {.split-heading}
-<p class="section-kicker">SELECTED PUBLICATIONS</p>
-
-## Recent methodological work
-
-[See the full list](publications.qmd){.text-link}
-:::
-
-::: {.featured-papers}
-::: {.paper-card}
-<p class="paper-year">2023 · BIOMETRICS</p>
-
-### Hierarchical nuclear norm penalization for multi-view data integration
-
-S. Yi, R. K. W. Wong, and I. Gaynanova
-
-[Journal](https://doi.org/10.1111/biom.13893) · [Details](publications.qmd#peer-reviewed-publications)
-:::
-
-::: {.paper-card}
-<p class="paper-year">2022 · STATISTICA SINICA</p>
-
-### Projection-based inference for high-dimensional linear models
-
-S. Yi and X. Zhang
-
-[Journal](https://doi.org/10.5705/ss.202019.0283) · [Details](publications.qmd#peer-reviewed-publications)
-:::
-
-::: {.paper-card}
-<p class="paper-year">2021 · GENOME BIOLOGY</p>
-
-### 2dFDR: A new approach to confounder adjustment
-
-S. Yi, X. Zhang, L. Yang, J. Huang, Y. Liu, C. Wang, D. Schaid, and J. Chen
-
-[Open access](https://doi.org/10.1186/s13059-021-02418-8) · [Details](publications.qmd#peer-reviewed-publications)
-:::
-:::
-:::
-
-::: {.home-contact #contact}
-::: {.contact-copy}
-<p class="section-kicker">CONTACT</p>
-
-## Interested in collaboration?
-
-I welcome conversations about methodological statistics, multi-omics data integration, mediation analysis, and related applications.
-:::
-
-::: {.contact-details}
-**Sangyoon Yi**  
-Department of Statistics  
+**Assistant Professor**<br>
+[Department of Statistics](https://statistics.okstate.edu/)<br>
 Oklahoma State University
-
-[sayi@okstate.edu](mailto:sayi@okstate.edu){.button .button-primary}
 :::
 :::
