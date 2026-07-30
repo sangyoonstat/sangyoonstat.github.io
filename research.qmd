@@ -1,6 +1,5 @@
 ---
 title: "Research"
-description: "Research interests, publications, and preprints."
 ---
 
 ## Research interests
@@ -9,9 +8,9 @@ My research focuses on high-dimensional statistics, multi-view data integration,
 
 ## Publications and Preprints
 
-1. **Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.**
+1. **Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.** With M. Kang.
 
-2. **CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.**
+2. **CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.** With S. Osarfo, W. Fu, and S. Ahn.
 
 3. **Sensitivity analysis for false discovery rate estimation with published p-values.** With T. Cao and J. Habiger.
 
