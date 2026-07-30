@@ -8,26 +8,24 @@ My research focuses on high-dimensional statistics, multi-view data integration,
 
 ## Publications and Preprints
 
-1. **Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.** With M. Kang.
+1. **[Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.](https://arxiv.org/abs/2604.03863)** With M. Kang.
 
-2. **CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.** With S. Osarfo, W. Fu, and S. Ahn.
+2. **[CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.](https://arxiv.org/abs/2508.16883)** With S. Osarfo, W. Fu, and S. Ahn.
 
-3. **Sensitivity analysis for false discovery rate estimation with published p-values.** With T. Cao and J. Habiger.
+3. **[Sensitivity analysis for false discovery rate estimation with published p-values.](https://arxiv.org/abs/2603.00410)** With T. Cao and J. Habiger.
 
-4. **Sparse compositional integrative factor model for multi-view data with compositions.** With K. Kim and S. Jung.
-
-5. **Hierarchical nuclear norm penalization for multi-view data integration.**<br>
+4. **Hierarchical nuclear norm penalization for multi-view data integration.**<br>
    **S. Yi**, R. K. W. Wong, and I. Gaynanova. *Biometrics*, 79(4), 2933–2946, 2023.<br>
-   [DOI](https://doi.org/10.1111/biom.13893) · [Journal](https://academic.oup.com/biometrics/article/79/4/2933/7587568)
+   [Journal](https://academic.oup.com/biometrics/article/79/4/2933/7587568)
 
-6. **Projection-based inference for high-dimensional linear models.**<br>
+5. **Projection-based inference for high-dimensional linear models.**<br>
    **S. Yi** and X. Zhang. *Statistica Sinica*, 32, 893–917, 2022.<br>
-   [DOI](https://doi.org/10.5705/ss.202019.0283) · [Journal](https://www3.stat.sinica.edu.tw/sstest/j32n2/32-2.html)
+   [Journal](https://www3.stat.sinica.edu.tw/sstest/j32n2/32-2.html)
 
-7. **2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies.**<br>
+6. **2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies.**<br>
    **S. Yi**, X. Zhang, L. Yang, J. Huang, Y. Liu, C. Wang, D. Schaid, and J. Chen. *Genome Biology*, 22, 208, 2021.<br>
-   [DOI](https://doi.org/10.1186/s13059-021-02418-8) · [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8276451/)
+   [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8276451/)
 
-8. **Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain.**<br>
+7. **Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain.**<br>
    S. H. Yoon, E. Kim, Y. Jeon, **S. Yi**, H. J. Bae, I. K. Jang, J. M. Lee, S. M. Yoo, C. S. White, and E. J. Chun. *Korean Journal of Radiology*, 21(9), 1055–1064, 2020.<br>
-   [DOI](https://doi.org/10.3348/kjr.2020.0103) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32691541/)
+   [PubMed](https://pubmed.ncbi.nlm.nih.gov/32691541/)
