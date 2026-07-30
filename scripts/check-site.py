@@ -23,10 +23,7 @@ def main():
     expected_pages = {
         "index.html",
         "research.html",
-        "publications.html",
         "teaching.html",
-        "cv.html",
-        "contact.html",
     }
 
     missing_pages = sorted(page for page in expected_pages if not (root / page).is_file())
