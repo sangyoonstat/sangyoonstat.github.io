@@ -21,5 +21,11 @@ title-block-style: none
 **Assistant Professor**<br>
 [Department of Statistics](https://statistics.okstate.edu/)<br>
 Oklahoma State University
+
+[sayi@okstate.edu](mailto:sayi@okstate.edu)
+
+### Bio
+
+I am an Assistant Professor in the Department of Statistics at Oklahoma State University. I received my Ph.D. in Statistics from Texas A&M University in 2020 and my B.A. and M.A. from Yonsei University in South Korea.
 :::
 :::
