@@ -1,0 +1,47 @@
+---
+title: "Research"
+description: "Research areas and current methodological directions."
+---
+
+<p class="page-deck">My research develops principled and computationally useful statistical methods for complex, high-dimensional data. A recurring goal is to preserve meaningful structure while enabling valid inference.</p>
+
+## Multi-view data integration
+
+Modern studies frequently measure several data types on the same subjects. These views may contain common signals, partially shared signals, and variation unique to an individual source. I study low-rank and structured approaches that separate these components and make the resulting representation interpretable.
+
+Representative themes include:
+
+- joint and partially shared structure across data views;
+- adaptive rank and signal-structure estimation;
+- sparse, compositional, and graph-aware representations;
+- uncertainty quantification for estimated latent structure; and
+- applications to multi-omics and microbiome data.
+
+My work on [hierarchical nuclear norm penalization](https://doi.org/10.1111/biom.13893) provides a flexible convex framework for estimating shared structure across arbitrary subsets of views.
+
+## High-dimensional mediation analysis
+
+Mediation analysis asks how an exposure affects an outcome through intermediate variables. When thousands of candidate mediators are available, both selection and inference become difficult. My work examines procedures that retain power while accounting for dependence, non-Gaussian outcomes, compositional constraints, hidden confounding, and model-selection uncertainty.
+
+Current directions include correlation-aware mediation analysis, multi-sample splitting, mediation with binary outcomes, and methods for microbiome mediators.
+
+## Statistical methods for omics
+
+Omics measurements bring scientific structure that generic high-dimensional procedures may ignore. Microbiome data are compositional and often zero-inflated; multi-omics studies contain heterogeneous views; and nuisance variation can substantially alter association testing.
+
+I develop methods that directly incorporate these features, including:
+
+- compositional integrative factor models;
+- models for zero-inflated microbiome mediators;
+- latent-Gaussian approaches to microbiome integration;
+- measurement-error correction for log-contrast regression; and
+- confounder-adjusted multiple testing.
+
+The [2dFDR framework](https://doi.org/10.1186/s13059-021-02418-8) illustrates this broader goal: using auxiliary structure to increase discovery power while retaining false-discovery control.
+
+## High-dimensional inference and multiple testing
+
+I am also interested in general inference problems where dimensionality, selection, or nuisance structure invalidate classical approximations. This includes projection-based inference, false-discovery-rate estimation, and robust procedures for scientific studies with many candidate signals.
+
+[View publications](publications.qmd){.button .button-primary}
+

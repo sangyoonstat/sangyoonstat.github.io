@@ -1,0 +1,26 @@
+---
+title: "Contact"
+description: "Contact information for Sangyoon Yi."
+---
+
+<p class="page-deck">For questions about research, teaching, or potential collaboration, email is the best way to reach me.</p>
+
+::: {.contact-page-grid}
+::: {.contact-panel}
+<p class="section-kicker">EMAIL</p>
+
+## [sayi@okstate.edu](mailto:sayi@okstate.edu)
+
+Department of Statistics  
+Oklahoma State University
+:::
+
+::: {.contact-panel .contact-panel-accent}
+<p class="section-kicker">ACADEMIC PROFILES</p>
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=u3yAROcAAAAJ)
+- [ORCID: 0000-0001-6892-577X](https://orcid.org/0000-0001-6892-577X)
+- [Oklahoma State Experts Directory](https://experts.okstate.edu/sayi)
+- [GitHub](https://github.com/sangyoonstat)
+:::
+:::

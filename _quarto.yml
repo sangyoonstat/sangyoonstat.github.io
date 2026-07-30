@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: "Sangyoon Yi"
+  site-url: "https://sangyoonstat.github.io"
+  description: "Sangyoon Yi is an Assistant Professor of Statistics at Oklahoma State University working on high-dimensional inference, multi-view data integration, mediation analysis, and statistical methods for omics."
+  favicon: assets/site/favicon.svg
+  navbar:
+    background: light
+    logo: assets/site/mark.svg
+    logo-alt: "Sangyoon Yi"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?hl=en&user=u3yAROcAAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/sangyoonstat
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:sayi@okstate.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Sangyoon Yi"
+    center: "Department of Statistics · Oklahoma State University"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0001-6892-577X
+      - text: GitHub
+        href: https://github.com/sangyoonstat
+  open-graph: true
+  twitter-card: true
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+
+execute:
+  freeze: auto
