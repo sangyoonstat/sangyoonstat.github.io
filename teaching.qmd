@@ -1,0 +1,47 @@
+---
+title: "Teaching"
+description: "Courses taught at Oklahoma State University."
+---
+
+<p class="page-deck">I teach statistics courses spanning experimental design, engineering applications, and the undergraduate capstone sequence at Oklahoma State University.</p>
+
+## Oklahoma State University
+
+::: {.course-list}
+::: {.course}
+<span class="course-code">STAT 4033</span>
+
+### Engineering Statistics
+
+Fall 2025 · Spring 2026
+:::
+
+::: {.course}
+<span class="course-code">STAT 5023</span>
+
+### Statistics for Experimenters II
+
+Fall 2022 · Spring 2023 · Fall 2023 · Spring 2024 · Fall 2024 · Spring 2025 · Fall 2025 · Spring 2026
+:::
+
+::: {.course}
+<span class="course-code">STAT 4981</span>
+
+### Statistics Capstone I
+
+Fall 2022 · Fall 2023 · Fall 2024
+:::
+
+::: {.course}
+<span class="course-code">STAT 4991</span>
+
+### Statistics Capstone II
+
+Spring 2023 · Spring 2024 · Spring 2025
+:::
+:::
+
+## Teaching interests
+
+My teaching emphasizes statistical reasoning, reproducible analysis, and the connection between methodological ideas and real scientific questions. In project-based courses, I encourage students to communicate assumptions and uncertainty as clearly as they communicate numerical results.
+

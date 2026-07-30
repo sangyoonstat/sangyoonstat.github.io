@@ -1,0 +1,65 @@
+---
+title: "Publications"
+description: "Peer-reviewed publications and selected ongoing work."
+---
+
+<p class="page-deck">Publications are listed in reverse chronological order. My name is shown in bold. Journal links use the version of record when available.</p>
+
+## Peer-reviewed publications
+
+::: {.publication-entry}
+<span class="pub-year">2023</span>
+
+### Hierarchical nuclear norm penalization for multi-view data integration
+
+**Sangyoon Yi**, Raymond K. W. Wong, and Irina Gaynanova. *Biometrics*, 79(4), 2933–2946.
+
+[DOI](https://doi.org/10.1111/biom.13893) · [Journal](https://academic.oup.com/biometrics/article/79/4/2933/7587568)
+:::
+
+::: {.publication-entry}
+<span class="pub-year">2022</span>
+
+### Projection-based inference for high-dimensional linear models
+
+**Sangyoon Yi** and Xianyang Zhang. *Statistica Sinica*, 32, 893–917.
+
+[DOI](https://doi.org/10.5705/ss.202019.0283) · [Journal](https://www3.stat.sinica.edu.tw/sstest/j32n2/32-2.html)
+:::
+
+::: {.publication-entry}
+<span class="pub-year">2021</span>
+
+### 2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies
+
+**Sangyoon Yi**, Xianyang Zhang, Lu Yang, Jinyan Huang, Yuanhang Liu, Chen Wang, Daniel Schaid, and Jun Chen. *Genome Biology*, 22, 208.
+
+[DOI](https://doi.org/10.1186/s13059-021-02418-8) · [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8276451/)
+:::
+
+::: {.publication-entry}
+<span class="pub-year">2020</span>
+
+### Prognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain
+
+Sung Hyun Yoon, Eunhee Kim, Yongho Jeon, **Sang Yoon Yi**, Hee Joon Bae, Ik Kyung Jang, Joo Myung Lee, Seung Min Yoo, Charles S. White, and Eun Ju Chun. *Korean Journal of Radiology*, 21(9), 1055–1064.
+
+[DOI](https://doi.org/10.3348/kjr.2020.0103) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32691541/)
+:::
+
+## Selected manuscripts and ongoing work
+
+The following projects are listed in the January 2026 CV. Status descriptions are intentionally conservative.
+
+::: {.work-list}
+- **Estimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts.** With M. Kang. Major revision at *Pharmaceutical Statistics*.
+- **CHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study.** With S. Osarfo, W. Fu, and S. Ahn. Submitted.
+- **Sensitivity analysis for false discovery rate estimation with published p-values.** With T. Cao and J. Habiger. Submitted.
+- **Sparse compositional integrative factor model for multi-view data with compositions.** With K. Kim and S. Jung.
+- **Selection of mediation effects in high-dimensional microbiome data with zero inflation.** With H. Chung.
+- **Multi-view data integration with microbiome data using a truncated latent Gaussian copula.**
+- **A perturbed regression calibration for high-dimensional log-contrast models with hidden confounding.** With S. Osarfo.
+- **MSS-HIMA: Multi-sample splitting high-dimensional mediation analysis for binary response.** With W. Fu and S. Ahn.
+:::
+
+For an academic overview, see my [CV page](cv.qmd) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=u3yAROcAAAAJ).

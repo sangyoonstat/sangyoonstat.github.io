@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach statistics courses spanning experimental design, engineering applications, and the undergraduate capstone sequence at Oklahoma State University."
+  },
+  {
+    "objectID": "teaching.html#oklahoma-state-university",
+    "href": "teaching.html#oklahoma-state-university",
+    "title": "Teaching",
+    "section": "Oklahoma State University",
+    "text": "Oklahoma State University\n\n\nSTAT 4033\n\nEngineering Statistics\nFall 2025 · Spring 2026\n\n\n\nSTAT 5023\n\nStatistics for Experimenters II\nFall 2022 · Spring 2023 · Fall 2023 · Spring 2024 · Fall 2024 · Spring 2025 · Fall 2025 · Spring 2026\n\n\n\nSTAT 4981\n\nStatistics Capstone I\nFall 2022 · Fall 2023 · Fall 2024\n\n\n\nSTAT 4991\n\nStatistics Capstone II\nSpring 2023 · Spring 2024 · Spring 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching interests",
+    "text": "Teaching interests\nMy teaching emphasizes statistical reasoning, reproducible analysis, and the connection between methodological ideas and real scientific questions. In project-based courses, I encourage students to communicate assumptions and uncertainty as clearly as they communicate numerical results."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications are listed in reverse chronological order. My name is shown in bold. Journal links use the version of record when available."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-reviewed publications",
+    "text": "Peer-reviewed publications\n\n2023\n\nHierarchical nuclear norm penalization for multi-view data integration\nSangyoon Yi, Raymond K. W. Wong, and Irina Gaynanova. Biometrics, 79(4), 2933–2946.\nDOI · Journal\n\n\n\n2022\n\nProjection-based inference for high-dimensional linear models\nSangyoon Yi and Xianyang Zhang. Statistica Sinica, 32, 893–917.\nDOI · Journal\n\n\n\n2021\n\n2dFDR: A new approach to confounder adjustment substantially increases detection power in omics association studies\nSangyoon Yi, Xianyang Zhang, Lu Yang, Jinyan Huang, Yuanhang Liu, Chen Wang, Daniel Schaid, and Jun Chen. Genome Biology, 22, 208.\nDOI · Open access\n\n\n\n2020\n\nPrognostic value of coronary CT angiography for predicting poor cardiac outcome in stroke patients without known cardiac disease or chest pain\nSung Hyun Yoon, Eunhee Kim, Yongho Jeon, Sang Yoon Yi, Hee Joon Bae, Ik Kyung Jang, Joo Myung Lee, Seung Min Yoo, Charles S. White, and Eun Ju Chun. Korean Journal of Radiology, 21(9), 1055–1064.\nDOI · PubMed"
+  },
+  {
+    "objectID": "publications.html#selected-manuscripts-and-ongoing-work",
+    "href": "publications.html#selected-manuscripts-and-ongoing-work",
+    "title": "Publications",
+    "section": "Selected manuscripts and ongoing work",
+    "text": "Selected manuscripts and ongoing work\nThe following projects are listed in the January 2026 CV. Status descriptions are intentionally conservative.\n\n\nEstimation of treatment effect in clinical trials of continuous endpoints with retrieved dropouts. With M. Kang. Major revision at Pharmaceutical Statistics.\nCHIMA: A correlation-aware high-dimensional mediation analysis with application to the Living Brain Project Study. With S. Osarfo, W. Fu, and S. Ahn. Submitted.\nSensitivity analysis for false discovery rate estimation with published p-values. With T. Cao and J. Habiger. Submitted.\nSparse compositional integrative factor model for multi-view data with compositions. With K. Kim and S. Jung.\nSelection of mediation effects in high-dimensional microbiome data with zero inflation. With H. Chung.\nMulti-view data integration with microbiome data using a truncated latent Gaussian copula.\nA perturbed regression calibration for high-dimensional log-contrast models with hidden confounding. With S. Osarfo.\nMSS-HIMA: Multi-sample splitting high-dimensional mediation analysis for binary response. With W. Fu and S. Ahn.\n\n\nFor an academic overview, see my CV page or Google Scholar."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A concise overview of my academic background, research, teaching, presentations, and professional service."
+  },
+  {
+    "objectID": "cv.html#appointments",
+    "href": "cv.html#appointments",
+    "title": "Curriculum Vitae",
+    "section": "Appointments",
+    "text": "Appointments\n\n\n2022–present\n\nAssistant Professor\nDepartment of Statistics, Oklahoma State University\n\n\n\n2020–2022\n\nPostdoctoral Researcher\nTexas A&M TRIPODS Institute for Foundations of Interdisciplinary Data Science\nMentors: Raymond K. W. Wong and Irina Gaynanova"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n2020\n\nPh.D. in Statistics\nTexas A&M University\nAdvisor: Xianyang Zhang\nDissertation: Statistical Inference in High-Dimensional Models\n\n\n\n2015\n\nM.A. in Applied Statistics\nYonsei University\nAdvisor: Yongho Jeon\n\n\n\n2013\n\nB.A. in Applied Statistics\nYonsei University"
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "Curriculum Vitae",
+    "section": "Research",
+    "text": "Research\nMy work develops statistical methodology for high-dimensional and structured data, with particular interests in:\n\nmulti-view and multi-omics data integration;\nhigh-dimensional mediation analysis;\nstatistical methods for microbiome and compositional data;\nhigh-dimensional inference; and\nmultiple testing and false-discovery-rate control.\n\nExplore research View publications"
+  },
+  {
+    "objectID": "cv.html#teaching-at-oklahoma-state-university",
+    "href": "cv.html#teaching-at-oklahoma-state-university",
+    "title": "Curriculum Vitae",
+    "section": "Teaching at Oklahoma State University",
+    "text": "Teaching at Oklahoma State University\n\nSTAT 4033 — Engineering Statistics: Fall 2025, Spring 2026\nSTAT 5023 — Statistics for Experimenters II: Fall 2022–Spring 2026\nSTAT 4981 — Statistics Capstone I: Fall 2022, Fall 2023, Fall 2024\nSTAT 4991 — Statistics Capstone II: Spring 2023, Spring 2024, Spring 2025"
+  },
+  {
+    "objectID": "cv.html#selected-presentations",
+    "href": "cv.html#selected-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Selected presentations",
+    "text": "Selected presentations\n\nInvited talk, Hierarchical Nuclear Norm Penalization for Multi-view Data Integration, Oklahoma State University, April 2024.\nInvited talk, Hierarchical Nuclear Norm Penalization for Multi-view Data Integration, University of Oklahoma Health Sciences Center, October 2023.\nTopic-contributed talk, Hierarchical Nuclear Norm Penalization for Multi-view Data Integration, Joint Statistical Meetings, August 2023.\nTopic-contributed talk, Projection-based Inference for High-dimensional Linear Models, Joint Statistical Meetings, August 2018."
+  },
+  {
+    "objectID": "cv.html#professional-activities",
+    "href": "cv.html#professional-activities",
+    "title": "Curriculum Vitae",
+    "section": "Professional activities",
+    "text": "Professional activities\n\nEditorial Board, Measurement: Interdisciplinary Research and Perspectives\nReviewer for journals including Statistica Sinica, Journal of Computational and Graphical Statistics, Computational Statistics & Data Analysis, and Metrika"
+  },
+  {
+    "objectID": "cv.html#computing",
+    "href": "cv.html#computing",
+    "title": "Curriculum Vitae",
+    "section": "Computing",
+    "text": "Computing\nR · parallel computing · SAS · C++ · Python · Bash · Fortran"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For questions about research, teaching, or potential collaboration, email is the best way to reach me."
+  },
+  {
+    "objectID": "contact.html#sayiokstate.edu",
+    "href": "contact.html#sayiokstate.edu",
+    "title": "Contact",
+    "section": "sayi@okstate.edu",
+    "text": "sayi@okstate.edu\nDepartment of Statistics\nOklahoma State University"
+  },
+  {
+    "objectID": "index.html#statistics-for-structured-high-dimensional-science",
+    "href": "index.html#statistics-for-structured-high-dimensional-science",
+    "title": "Sangyoon Yi",
+    "section": "Statistics for structured, high-dimensional science",
+    "text": "Statistics for structured, high-dimensional science\nMy work connects modern statistical theory with challenges arising in genomics, microbiome studies, and other data-rich scientific settings.\n\n\n01\n\nMulti-view data integration\nLow-rank and structured methods that identify shared and view-specific variation across multiple data sources.\nLearn more →\n\n\n\n02\n\nHigh-dimensional mediation\nSelection and inference for mediation effects when the number of potential mediators is large and the outcome model is complex.\nLearn more →\n\n\n\n03\n\nStatistics for omics\nMethods tailored to compositional, zero-inflated, confounded, and multi-omic measurements.\nLearn more →"
+  },
+  {
+    "objectID": "index.html#recent-methodological-work",
+    "href": "index.html#recent-methodological-work",
+    "title": "Sangyoon Yi",
+    "section": "Recent methodological work",
+    "text": "Recent methodological work\nSee the full list"
+  },
+  {
+    "objectID": "index.html#interested-in-collaboration",
+    "href": "index.html#interested-in-collaboration",
+    "title": "Sangyoon Yi",
+    "section": "Interested in collaboration?",
+    "text": "Interested in collaboration?\nI welcome conversations about methodological statistics, multi-omics data integration, mediation analysis, and related applications."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research develops principled and computationally useful statistical methods for complex, high-dimensional data. A recurring goal is to preserve meaningful structure while enabling valid inference."
+  },
+  {
+    "objectID": "research.html#multi-view-data-integration",
+    "href": "research.html#multi-view-data-integration",
+    "title": "Research",
+    "section": "Multi-view data integration",
+    "text": "Multi-view data integration\nModern studies frequently measure several data types on the same subjects. These views may contain common signals, partially shared signals, and variation unique to an individual source. I study low-rank and structured approaches that separate these components and make the resulting representation interpretable.\nRepresentative themes include:\n\njoint and partially shared structure across data views;\nadaptive rank and signal-structure estimation;\nsparse, compositional, and graph-aware representations;\nuncertainty quantification for estimated latent structure; and\napplications to multi-omics and microbiome data.\n\nMy work on hierarchical nuclear norm penalization provides a flexible convex framework for estimating shared structure across arbitrary subsets of views."
+  },
+  {
+    "objectID": "research.html#high-dimensional-mediation-analysis",
+    "href": "research.html#high-dimensional-mediation-analysis",
+    "title": "Research",
+    "section": "High-dimensional mediation analysis",
+    "text": "High-dimensional mediation analysis\nMediation analysis asks how an exposure affects an outcome through intermediate variables. When thousands of candidate mediators are available, both selection and inference become difficult. My work examines procedures that retain power while accounting for dependence, non-Gaussian outcomes, compositional constraints, hidden confounding, and model-selection uncertainty.\nCurrent directions include correlation-aware mediation analysis, multi-sample splitting, mediation with binary outcomes, and methods for microbiome mediators."
+  },
+  {
+    "objectID": "research.html#statistical-methods-for-omics",
+    "href": "research.html#statistical-methods-for-omics",
+    "title": "Research",
+    "section": "Statistical methods for omics",
+    "text": "Statistical methods for omics\nOmics measurements bring scientific structure that generic high-dimensional procedures may ignore. Microbiome data are compositional and often zero-inflated; multi-omics studies contain heterogeneous views; and nuisance variation can substantially alter association testing.\nI develop methods that directly incorporate these features, including:\n\ncompositional integrative factor models;\nmodels for zero-inflated microbiome mediators;\nlatent-Gaussian approaches to microbiome integration;\nmeasurement-error correction for log-contrast regression; and\nconfounder-adjusted multiple testing.\n\nThe 2dFDR framework illustrates this broader goal: using auxiliary structure to increase discovery power while retaining false-discovery control."
+  },
+  {
+    "objectID": "research.html#high-dimensional-inference-and-multiple-testing",
+    "href": "research.html#high-dimensional-inference-and-multiple-testing",
+    "title": "Research",
+    "section": "High-dimensional inference and multiple testing",
+    "text": "High-dimensional inference and multiple testing\nI am also interested in general inference problems where dimensionality, selection, or nuisance structure invalidate classical approximations. This includes projection-based inference, false-discovery-rate estimation, and robust procedures for scientific studies with many candidate signals.\nView publications"
+  }
+]
