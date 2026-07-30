@@ -25,5 +25,5 @@ jobs:
       - name: Render and stage static site
         run: bash scripts/render-site.sh
 
-      - name: Verify generated files are current
-        run: git diff --exit-code -- '*.html' robots.txt search.json sitemap.xml site_libs assets/site
+      - name: Validate rendered website
+        run: python scripts/check-site.py _site
