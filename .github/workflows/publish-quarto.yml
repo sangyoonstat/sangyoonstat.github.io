@@ -1,4 +1,4 @@
-name: Check Quarto website
+name: Render and publish Quarto website
 
 on:
   push:
@@ -10,8 +10,12 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  render:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -27,3 +31,28 @@ jobs:
 
       - name: Validate rendered website
         run: python scripts/check-site.py _site
+
+      - name: Set up GitHub Pages
+        if: github.event_name == 'push'
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        if: github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name == 'push'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
